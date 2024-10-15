@@ -1,6 +1,9 @@
 # lua-list
 
-# About
+(LOGO HERE HOPFULLY)
+
+## About
+
 The ideology behind this project is to create a single file, 0-indexed list implementation with python's list methods.
 The goal for list API is to be as close as possible to pythons list API
 
@@ -13,3 +16,4 @@ The goal for list API is to be as close as possible to pythons list API
 
 This repo has just been create as the time of writing this (Oct 15, 2024).
 Basic funtionality will be implemenbted hopefully in the next couple of weekends.
+
