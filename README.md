@@ -1,5 +1,6 @@
 # lua-list
 
+# About
 The ideology behind this project is to create a single file, 0-indexed list implementation with python's list methods.
 The goal for list API is to be as close as possible to pythons list API
 
