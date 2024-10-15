@@ -1,2 +1,12 @@
 # lua-list
-Sane 0-indexed list implementation for Lua
+The ideology behind this project is to create a single file, 0-indexed list implementation with python's list methods.
+
+## Development progress
+
+This repo has just been create as the time of writing this (Oct 15, 2024).
+Basic funtionality will be implemenbted hopefully in the next couple of weekends.
+
+
+## FAQ's
+- **Q:** Why 0-indexed?
+- **A:** Because the 1-indexed tables that are used a lists is the worst part of lua in my opinion.
