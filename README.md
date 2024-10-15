@@ -17,3 +17,15 @@ The goal for list API is to be as close as possible to pythons list API
 This repo has just been create as the time of writing this (Oct 15, 2024).
 Basic funtionality will be implemenbted hopefully in the next couple of weekends.
 
+## Roadmap
+- Implement basic list methods:
+  - [ ] create()
+  - [ ] delete() (not sure if needed, will require further investigation)
+  - [ ] append()
+  - [ ] prepend()
+  - [ ] pop()
+  - [ ] ...
+ 
+- Implement python list methods:
+  - [ ] sorted()
+  - [ ] ...
